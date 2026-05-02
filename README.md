@@ -42,7 +42,6 @@ Possuo perfil proativo, foco em resolução de problemas e facilidade para traba
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de auditoria de dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
-
 | **Desenhando emoji com dados** | Um programa que manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.
 | [Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
 
