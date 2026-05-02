@@ -45,9 +45,8 @@ Possuo perfil proativo, foco em resolução de problemas e facilidade para traba
 | **Desenhando emoji com dados** | Um programa que manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji.|[Ver Projeto](./projeto-desenhando-emojis-com-dados/) |
 | **Pseudocodigo e Fluxograma de um sistema de UBS** | Desenvolvimento de uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-soluções-logicas/) |
 | **fluxos gramas e pseudocodigos de um caixa de supermercado** | fluxos gramas e pseudocodigos detalhados de um caixa de supermercado. | [Ver Projeto](./projeto-modularizacao/) |
+| **Traduzindo a logica em Python** | Transferindo pseudocódigos em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 
-
-| **Algoritmo de auditoria de dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 | **Algoritmo de auditoria de dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
 ---
  
