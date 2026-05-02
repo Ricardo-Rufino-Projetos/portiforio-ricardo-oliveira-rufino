@@ -46,8 +46,7 @@ Possuo perfil proativo, foco em resolução de problemas e facilidade para traba
 | **Pseudocodigo e Fluxograma de um sistema de UBS** | Desenvolvimento de uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](./projeto-engenharia-de-soluções-logicas/) |
 | **fluxos gramas e pseudocodigos de um caixa de supermercado** | fluxos gramas e pseudocodigos detalhados de um caixa de supermercado. | [Ver Projeto](./projeto-modularizacao/) |
 | **Traduzindo a logica em Python** | Transferindo pseudocódigos em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais.. | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
-
-| **Algoritmo de auditoria de dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+| **Engenharia de contexto e logica e fisica** | Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-física/) |
 ---
  
 ### 🏗 Estrutura do Repositório
